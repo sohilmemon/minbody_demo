@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Mindbody Demo
 //
-//  Created by Space on 11/03/23.
+//  Created by Sohil Memon on 11/03/23.
 //
 
 import UIKit

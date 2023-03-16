@@ -2,7 +2,7 @@
 //  Mindbody_DemoUITests.swift
 //  Mindbody DemoUITests
 //
-//  Created by Space on 11/03/23.
+//  Created by Sohil Memon on 11/03/23.
 //
 
 import XCTest
